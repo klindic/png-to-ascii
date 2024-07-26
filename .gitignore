@@ -161,5 +161,8 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-#Logo
+# Logo
 logo.png
+
+# Ascii generated text file
+ascii_image.txt
